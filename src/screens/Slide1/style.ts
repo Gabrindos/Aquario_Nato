@@ -20,10 +20,14 @@ export const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-around',
         alignItems: 'flex-end',
-        width:400
+        width:400,
+        marginBottom: 40
 
     },
 
+    view2:{
+        flex:1
+    }
 
 
 
